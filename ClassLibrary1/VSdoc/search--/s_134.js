@@ -1,0 +1,1 @@
+search_result['134']=["topic_0000000000000048.html","IRepo\u0026lt;TEntity\u0026gt;.Delete Method","Deletes the specified entity."];

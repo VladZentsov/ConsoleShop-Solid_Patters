@@ -1,0 +1,1 @@
+search_result['188']=["topic_000000000000006A.html","RegisteredUserRepo.Delete Method","Deletes the specified entity."];

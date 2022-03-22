@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"BLL Reference","topic_0000000000000068.html"],['49',"BLL.Interfaces Namespace","topic_0000000000000023.html"],['70',"IRegisteredUserService Interface","topic_0000000000000034.html"],['71',"Methods","topic_0000000000000034_methods--.html"]];

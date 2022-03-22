@@ -1,0 +1,1 @@
+search_result['84']=["topic_0000000000000027.html","ICrud\u0026lt;TModel\u0026gt;.GetAll Method","Gets all."];

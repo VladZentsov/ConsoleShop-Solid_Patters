@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"ConsoleApp1 Reference","topic_0000000000000026.html"],['37',"ConsoleApp1.Validation Namespace","topic_0000000000000000.html"],['38',"UIException Class","topic_0000000000000001.html"]];

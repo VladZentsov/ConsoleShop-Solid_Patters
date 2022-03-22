@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"DAL Reference","topic_0000000000000082.html"],['4',"ClassLibrary1.Data Namespace","topic_0000000000000000.html"],['5',"StoreDB Class","topic_0000000000000006.html"]];

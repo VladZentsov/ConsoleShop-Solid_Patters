@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"BLL Reference","topic_0000000000000068.html"],['121',"ConsoleApp1.Models Namespace","topic_0000000000000037.html"],['122',"LoginInfo Class","topic_0000000000000038.html"],['123',"Properties","topic_0000000000000038_props--.html"]];

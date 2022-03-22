@@ -1,0 +1,1 @@
+c['70']=[['71',"IAdministratorRepo Interface","topic_000000000000003F.html",0],['72',"IOrderRepo Interface","topic_0000000000000040.html",0],['73',"IProductsRepo Interface","topic_0000000000000041.html",0],['74',"IRegisteredUserRepo Interface","topic_0000000000000042.html",0],['75',"IRepo\u003cTEntity\u003e Interface","topic_0000000000000043.html",1]];

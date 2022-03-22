@@ -1,0 +1,1 @@
+c['115']=[['116',"RegisteredUserRepo Constructor","topic_0000000000000068.html",0],['117',"Methods","topic_0000000000000067_methods--.html",1]];
